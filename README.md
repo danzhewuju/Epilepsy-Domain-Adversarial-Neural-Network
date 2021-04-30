@@ -4,17 +4,7 @@
 
 ## Project
 
-we propose a new type of deep learning model called Epilepsy Domain 
-
-Adversarial Neural Network model (EDANN), which is used to classify epileptic 
-
-pre-ictal signals. EDANN integrates multiple deep neural networks, based on the 
-
-idea of adversarial learning, which can reduce the impact of differences between 
-
-patients on model prediction. The multi-network design in EDANN effectively 
-
-improves the model training stability and model generalizability. 
+we propose a new type of deep learning model called Epilepsy Domain Adversarial Neural Network model (EDANN), which is used to classify epileptic pre-ictal signals. EDANN integrates multiple deep neural networks, based on the idea of adversarial learning, which can reduce the impact of differences between patients on model prediction. The multi-network design in EDANN effectively improves the model training stability and model generalizability. 
 
 ## Environment
 
