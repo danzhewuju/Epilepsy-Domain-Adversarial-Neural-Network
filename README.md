@@ -8,9 +8,7 @@ we propose a new type of deep learning model called Epilepsy Domain Adversarial 
 
 ## Environment
 
-The model built by Pytoch framework, Python3.6. You May need to install  these 
-
-packages as follows: 
+The model built by Pytoch framework, Python3.6. You May need to install these packages as follows: 
 
 dtw               1.4.0
 
