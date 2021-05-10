@@ -38,7 +38,7 @@ tqdm              4.56.0
 
 ## Data
 
-We need permission to disclose data.
+Due to wo need permission to disclose data. If we get permission, we will disclose data later.
 
 ## How to run?
 
