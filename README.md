@@ -58,3 +58,14 @@ Test EDANN-Transformer model by:
 python ./run.py -m test -lac Transformer -p patient_name -gpu 0 
 ```
 
+Training  EDANN-LSTM model by:
+
+```
+python ./run.py -m train -lac LSTM -p patient_name -gpu 0 -ep 30 -bs 64
+```
+
+Test EDANN-LSTM model by:
+
+```
+python ./run.py -m test -lac LSTM -p patient_name -gpu 0 
+```
