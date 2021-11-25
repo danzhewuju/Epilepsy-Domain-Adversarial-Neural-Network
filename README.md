@@ -1,7 +1,12 @@
 # Epilepsy-Domain-Adversarial-Neural-Network
 
 
-## Paper link: (Epilepsy SEEG Data Classification Based On Domain Adversarial Learning)[https://github.com/danzhewuju/Epilepsy-Domain-Adversarial-Neural-Network]
+## Paper link: [Epilepsy SEEG Data Classification Based On Domain Adversarial Learning](https://github.com/danzhewuju/Epilepsy-Domain-Adversarial-Neural-Network)
+
+## Abstract
+Epilepsy is a neurological disorder characterized by recurrent epileptic seizures. Although an increasingly intense research effort has focused on the use of brain signal data to predict or detect epileptic seizures as early as possible, this problem is still computationally challenging. The main challenge is that the patient’s brain signal has strong individual characteristics, and the classification model is easily disturbed by this, which may lead to false predictions, affecting the reliability of the model. Based on the development of brain signal acquisition technology and deep learning, we propose a new type of deep learning model called the Epilepsy Domain Adversarial Neural Network (EDANN) model, which is used to classify epileptic pre-ictal signals. EDANN integrates multiple deep neural networks based on the idea of adversarial learning, which can reduce the impact of the differences between patients on model prediction. The multi-network design in EDANN effectively improves the model training stability and model generalizability. In addition, a unique brain signal processing algorithm is developed to convert signals to data blocks that are ready for pre-ictal classification, and the model may provide an auxiliary diagnosis for early warning of epilepsy. Experimental results on real patient data show that EDANN clearly improved the F1 score by approximately
+7.2% compared with the existing models. On a real dataset, our model achieved state-of-the-art results.
+
 
 
 ## Project
@@ -69,3 +74,6 @@ Test EDANN-LSTM model by:
 ```
 python ./run.py -m test -lac LSTM -p patient_name -gpu 0 
 ```
+
+## Tips
+If you want to see more detail, you can see link https://github.com/danzhewuju/ANNSD. It contains full code about our work. I hope it can help you.
