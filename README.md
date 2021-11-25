@@ -1,6 +1,8 @@
 # Epilepsy-Domain-Adversarial-Neural-Network
 
 
+## Paper link: (Epilepsy SEEG Data Classification Based On Domain Adversarial Learning)[https://github.com/danzhewuju/Epilepsy-Domain-Adversarial-Neural-Network]
+
 
 ## Project
 
